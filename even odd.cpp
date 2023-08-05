@@ -3,7 +3,7 @@ int main()
 {
 	int no;
 	printf (" \nHI EVERYONE\n");
-	printf (" \nDigvijay\n");
+	printf (" \n the Digvijay\n");
 	printf (" \nENTER YOUR No. TO CHECK WHETHER THE NO. IS ODD OR EVEN \n");
 	scanf("%d",&no);
 	if(no%2!=0)	
